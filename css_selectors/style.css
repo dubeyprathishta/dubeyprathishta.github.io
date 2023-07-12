@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+.tag-selector{
+    color: red;
+}
+.id-selector{
+    color: green;
+}
+
+.att-selector{
+    color: blue;
+}
+li{
+    font-size: 20px;
+}
+ol{
+    list-style-position: inside;
+}
+
